@@ -7,6 +7,6 @@ INSTALAÇÃO
 
 Para instalar o pacote da sintaxe AdvPL:
 
-Sublime Text > Preferences > Browse Packages 
+Sublime Text > Preferences > Browse Packages \n <br>
   -> Copiar a pasta com arquivos do pacote e renomear para AdvPL
 -> Reiniciar o Sublime  
